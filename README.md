@@ -1,2 +1,11 @@
 # api_consulta_cep
- Ferramenta usada para realizar consultas de CEP na Brasil API     *    disponível em https://brasilapi.com.br     *  Entrada: oito dígitos de um CEP     *  Saída: Retorna o endereço correspondente em um objeto JSON
+    Este código apresenta uma função usada para realizar consultas de CEP na Brasil API (https://brasilapi.com.br).
+
+As requisições são feitas de forma assíncrona usando o objeto XMLHttpRequest (XHR).
+
+-  *Entrada*: oito dígitos de um CEP
+-  *Saída*: Retorna o endereço correspondente em um objeto JSON
+
+
+## Avançado
+    O código inclui ainda uma função para gerar mapas usando a biblioteca Leaflet.

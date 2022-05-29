@@ -1,5 +1,5 @@
 # api_consulta_cep
-    Este código apresenta uma função usada para realizar consultas de CEP na Brasil API (https://brasilapi.com.br).
+Este código apresenta uma função usada para realizar consultas de CEP na Brasil API (https://brasilapi.com.br).
 
 As requisições são feitas de forma assíncrona usando o objeto XMLHttpRequest (XHR).
 

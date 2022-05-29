@@ -8,7 +8,7 @@ As requisições são feitas de forma assíncrona usando o objeto XMLHttpRequest
 
 
 ## Avançado
-    O código inclui ainda uma função para gerar mapas usando a biblioteca Leaflet.
+    O código inclui ainda uma função para gerar mapas usando a biblioteca <a href="https://leafletjs.com/">Leaflet</a>.
 
 ## Exemplo
 <img src="exemplo.png">
